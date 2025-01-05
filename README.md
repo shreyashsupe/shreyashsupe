@@ -1,7 +1,7 @@
 # Hi there, I'm Shreyash! 👋  
 
 ### 🌐 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/yourlinkedin/shreyashsupe) | [Portfolio](https://yourportfolio.com) | [Email](shreyashsupe11@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/shreyashsupe/) | [Portfolio]() | [Email](mailto:shreyashsupe11@gmail.com)  
 
 ---
 
@@ -63,7 +63,7 @@ I'm a **Data Analyst** and an **Aspiring Data Scientist** with a strong passion 
 I’m always open to discussing new ideas, projects, or opportunities. Feel free to connect via:  
 - [LinkedIn](https://www.linkedin.com/in/shreyashsupe)  
 - [Portfolio](https://yourportfolio.com)  
-- [Email](shreyashsupe11@gmail.com)  
+- [Email](mailto:shreyashsupe11@gmail.com)  
 
 ---
 
