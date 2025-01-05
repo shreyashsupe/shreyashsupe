@@ -1,7 +1,7 @@
 # Hi there, I'm Shreyash! 👋  
 
 ### 🌐 Connect with Me  
-[LinkedIn](www.linkedin.com/in/shreyashsupe) | [Portfolio](https://yourportfolio.com) | [Email](shreyashsupe11@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/yourlinkedin/shreyashsupe) | [Portfolio](https://yourportfolio.com) | [Email](shreyashsupe11@gmail.com)  
 
 ---
 
