@@ -49,15 +49,6 @@ I'm a **Data Analyst** and an **Aspiring Data Scientist** with a strong passion 
 
 - **Bachelor's Degree in Information Technology** (2024)   
 
----
-
-## 📈 Activity  
-
-![Shreyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Shreyash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)  
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=radical)  
-
----
 
 ### 🌟 Let's Connect!  
 I’m always open to discussing new ideas, projects, or opportunities. Feel free to connect via:  
