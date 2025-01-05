@@ -47,15 +47,8 @@ I'm a **Data Analyst** and an **Aspiring Data Scientist** with a strong passion 
 
 ## 🎓 Experience & Education  
 
-- **Bachelor's Degree in Information Technology** (2024)   
+- **Bachelor's Degree in Information Technology** (2024)
+- **Intern**: Machine Learning Engineer @ smallstep.ai       
 
-
-### 🌟 Let's Connect!  
-I’m always open to discussing new ideas, projects, or opportunities. Feel free to connect via:  
-- [LinkedIn](https://www.linkedin.com/in/shreyashsupe)  
-- [Portfolio](https://yourportfolio.com)  
-- [Email](mailto:shreyashsupe11@gmail.com)  
-
----
 
 
