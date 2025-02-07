@@ -22,7 +22,7 @@ I'm a **Data Analyst** and an **Aspiring Data Scientist** with a strong passion 
 -  **[WhatsApp Chat Analysis](https://github.com/shreyashsupe/WhatsApp-Chat-Analyzer)**:Analyze chat data for insights on message frequency, word usage, and media sharing. Visualize trends with graphs and charts for easy understanding.
 - **[Python Data Analysis Projects](https://github.com/shreyashsupe/Python-Data-Analysis-Projects)**: In this repository, I am excited to share my python data analysis projects which uses libraries like Pandas, Numpy, Matplotlib etc. to clean, analyze, and visualize data, uncovering trends and insights.
 -  **[SQL Data Analysis Projects](https://github.com/shreyashsupe/SQL-Data-Analysis-Project)**: This repository contains my SQL data analysis projects, showcasing various analytical techniques and insights derived from different datasets. The projects include in-depth data exploration, outlier detection, and statistical analysis to draw meaningful conclusions.
--  **[PowerBi-Dashboard Projects](https://github.com/shreyashsupe/Powerbi-Dashboard-Projects)**:This Repository contains all my Data Analysis Dashboards Projects that I have created using PowerBi. Excel, SQl & Python is also used for data cleaning process.
+-  **[PowerBi-Excel-Dashboard Projects](https://github.com/shreyashsupe/Powerbi-Dashboard-Projects)**:This Repository contains all my Data Analysis Dashboards Projects that I have created using PowerBi. Excel, SQl & Python is also used for data cleaning process.
 ---
 
 ## 💡 Skills  
