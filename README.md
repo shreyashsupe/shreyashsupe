@@ -10,7 +10,7 @@
 ## About Me  
 I am a Software Engineer with hands-on experience in cloud infrastructure automation, Python development, and CI/CD-driven workflows. I currently work on infrastructure automation and reliability engineering initiatives, focusing on building scalable, secure, and maintainable systems.
 
-I enjoy solving real-world engineering problems by combining software development principles with DevOps and automation practices. My interests lie in Site Reliability Engineering (SRE), cloud-native systems, and backend software development.
+I enjoy solving real-world engineering problems by combining software development principles with DevOps and automation practices. My interests lie in DevOps, Site Reliability Engineering (SRE), and cloud-native systems.
  
  ---
 
