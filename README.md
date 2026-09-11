@@ -1,57 +1,102 @@
-<h1 align="center">Hi there 👋, I'm Shreyash</h1> 
+<h1 align="center">Hi, I'm Shreyash Supe 👋</h1>
+<h3 align="center">DevOps &amp; Cloud Infrastructure Engineer | Automation &amp; SRE Enthusiast</h3>
 
 <p align="center">
-🚀 DevOps | Software Engineer | Cloud & Automation Enthusiast  
+  <a href="https://www.linkedin.com/in/shreyashsupe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shreyashsupe11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shreyashsupe&style=for-the-badge&color=blue" alt="profile views" />
 </p>
 
+---
+
+### 🧭 About Me
+
+I'm a Software Engineer with hands-on experience in **cloud infrastructure automation, Python development, and CI/CD-driven workflows**, built on an enterprise Information Security and Networking foundation at **Sony India Software Center**.
+
+- 🔭 Currently working on **infrastructure automation and reliability engineering** initiatives
+- 🌱 Deepening my skills in **DevOps, Site Reliability Engineering (SRE), and cloud-native systems**
+- 🛠️ I enjoy combining software engineering principles with automation to build scalable, secure, maintainable systems
+- 📊 Background in **data analytics, ML, and NLP** — a differentiator I bring into automation and tooling work
+- ⚡ Fun fact: I built an NLP text summarizer for Marathi, a low-resource Indian language
 
 ---
 
-## About Me  
-I am a Software Engineer with hands-on experience in cloud infrastructure automation, Python development, and CI/CD-driven workflows. I currently work on infrastructure automation and reliability engineering initiatives, focusing on building scalable, secure, and maintainable systems.
+### 🧰 Tech Stack
 
-I enjoy solving real-world engineering problems by combining software development principles with DevOps and automation practices. My interests lie in DevOps, Site Reliability Engineering (SRE), and cloud-native systems.
- 
- ---
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,bash,aws,terraform,docker,kubernetes,linux,git,github,githubactions,jenkins,postgres,mysql,vscode&perline=8" />
+</p>
 
-## Tech Stack
-
-### Programming
-- Python
-- SQL
-- Bash
-
-### Cloud & Infrastructure
-- AWS 
-- Terraform
-- Docker
-- Kubernetes
-- Linux
-
-### DevOps & Automation
-- CI/CD (GitHub Actions, Jenkins)
-- Git & GitHub
-- GitOps Workflows
-- Automation Scripting
-- Infrastructure Provisioning
-
-
- ---
-
-## 🏗️ Projects & Work  
-
-- **[Automated-Extractive-Marathi-Text-Summarizer](https://github.com/shreyashsupe/Automated-Extractive-Marathi-Text-Summarizer)**: This project implements an extractive text summarization tool for Marathi news articles using the TextRank algorithm. It preprocesses text, ranks sentences based on importance, and generates concise summaries. The tool features a Streamlit-based interface, making it easy to input Marathi text and obtain summaries efficiently.
-- **[terraform-drift-detection-auto-remediation](https://github.com/shreyashsupe/terraform-drift-detection-auto-remediation)**:Built an automated system using Terraform and Python to detect configuration drift across cloud environments and enforce compliance using Git-based remediation workflows.
-- **[End-to-end-Multi-Tier-web-application-deployment-Manual-Automated-AWS ](https://github.com/shreyashsupe/End-to-end-Multi-Tier-web-application-deployment-Manual-Automated-AWS)**:Production-style multi-tier application built manually, automated locally, and rehosted on AWS using lift-and-shift architecture.
-- **[WhatsApp Chat Analysis](https://github.com/shreyashsupe/WhatsApp-Chat-Analyzer)**:Analyze chat data for insights on message frequency, word usage, and media sharing. Visualize trends with graphs and charts for easy understanding.
-- **[Python Data Analysis Projects](https://github.com/shreyashsupe/Python-Data-Analysis-Projects)**: In this repository, I am excited to share my python data analysis projects which uses libraries like Pandas, Numpy, Matplotlib etc. to clean, analyze, and visualize data, uncovering trends and insights.
-
-
----    
-
-### 🌐 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/shreyashsupe/) | [Email](mailto:shreyashsupe11@gmail.com)  
+| Category | Tools |
+|---|---|
+| **Languages** | Python, SQL, Bash |
+| **Cloud & Infrastructure** | AWS (EC2, VPC, IAM, S3, Security Groups), Terraform, Infrastructure as Code |
+| **Containers & Orchestration** | Docker, Kubernetes |
+| **DevOps & Automation** | CI/CD, GitHub Actions, Jenkins, GitOps, Ansible |
+| **Operating Systems** | Linux |
+| **Data & ML** | Pandas, NumPy, scikit-learn, Power BI, NLP |
 
 ---
+
+### 🏗️ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[🔁 Terraform Drift Detection &amp; Auto-Remediation](https://github.com/shreyashsupe/terraform-drift-detection-auto-remediation)**
+Automated system using Terraform and Python to detect configuration drift across cloud environments and enforce compliance through Git-based remediation workflows, wired into a CI/CD pipeline.
+`Terraform` `Python` `AWS` `CI/CD` `Git`
+
+</td>
+<td width="50%">
+
+**[🚀 Multi-Tier Web App Deployment (Manual → Automated → AWS)](https://github.com/shreyashsupe/End-to-end-Multi-Tier-web-application-deployment-Manual-Automated-AWS)**
+Production-style multi-tier application deployed manually, automated locally, and rehosted on AWS using a lift-and-shift architecture — covering the full journey from manual ops to automation.
+`AWS` `Automation` `Linux` `CI/CD`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[📝 Automated Extractive Marathi Text Summarizer](https://github.com/shreyashsupe/Automated-Extractive-Marathi-Text-Summarizer)**
+NLP tool that summarizes Marathi news articles using the TextRank algorithm — custom preprocessing for a low-resource language, with a Streamlit interface for real-time summarization.
+`Python` `NLP` `TextRank` `Streamlit`
+
+</td>
+<td width="50%">
+
+**[💬 WhatsApp Chat Analyzer](https://github.com/shreyashsupe/WhatsApp-Chat-Analyzer)**
+Analyzes chat exports for message frequency, word usage, and media-sharing patterns, with visualizations to surface trends at a glance.
+`Python` `Pandas` `Data Visualization`
+
+</td>
+</tr>
+</table>
+
+**[📊 Python Data Analysis Projects](https://github.com/shreyashsupe/Python-Data-Analysis-Projects)** — A collection of data analysis work using Pandas, NumPy, and Matplotlib to clean, explore, and visualize datasets.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shreyashsupe&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashsupe&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashsupe&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shreyashsupe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shreyashsupe11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
 ⭐ Always open to collaborating on DevOps, cloud automation, and backend engineering projects.
