@@ -75,20 +75,38 @@ Analyzes chat exports for message frequency, word usage, and media-sharing patte
 </tr>
 </table>
 
-**[📊 Python Data Analysis Projects](https://github.com/shreyashsupe/Python-Data-Analysis-Projects)** — A collection of data analysis work using Pandas, NumPy, and Matplotlib to clean, explore, and visualize datasets.
+<table>
+<tr>
+<td width="50%">
+
+**[📊 Python Data Analysis Projects](https://github.com/shreyashsupe/Python-Data-Analysis-Projects)**
+A collection of data analysis work using Pandas, NumPy, and Matplotlib to clean, explore, and visualize datasets.
+`Python` `Pandas` `NumPy` `Matplotlib`
+
+</td>
+<td width="50%">
+
+**[📌 More on GitHub →](https://github.com/shreyashsupe?tab=repositories)**
+Browse the full list of repositories for additional automation scripts, DevOps experiments, and analytics work.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shreyashsupe&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashsupe&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shreyashsupe&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashsupe&layout=compact&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashsupe&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=shreyashsupe&hide_border=true" />
 </p>
+
+> If any card above shows as a broken image, it's almost always the shared public stats service being rate-limited (a widely reported issue, not a typo in your username) — reloading the page after a few minutes usually fixes it. See the note below for a permanent fix.
 
 ---
 
