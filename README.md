@@ -30,7 +30,7 @@ I'm a Software Engineer with hands-on experience in **cloud infrastructure autom
 | Category | Tools |
 |---|---|
 | **Languages** | Python, SQL, Bash |
-| **Cloud & Infrastructure** | AWS (EC2, VPC, IAM, S3, Security Groups), Terraform, Infrastructure as Code |
+| **Cloud & Infrastructure** | AWS, Terraform, Infrastructure as Code |
 | **Containers & Orchestration** | Docker, Kubernetes |
 | **DevOps & Automation** | CI/CD, GitHub Actions, Jenkins, GitOps, Ansible |
 | **Operating Systems** | Linux |
