@@ -106,7 +106,7 @@ Browse the full list of repositories for additional automation scripts, DevOps e
   <img src="https://streak-stats.demolab.com/?user=shreyashsupe&hide_border=true" />
 </p>
 
-> If any card above shows as a broken image, it's almost always the shared public stats service being rate-limited (a widely reported issue, not a typo in your username) — reloading the page after a few minutes usually fixes it. See the note below for a permanent fix.
+
 
 ---
 
